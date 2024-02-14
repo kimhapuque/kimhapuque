@@ -8,8 +8,8 @@ I'm interested in technology, front-end development, Games, PixelArt, 3D Modelin
 
 <div>
 <a href="https://github.com/kimhapuque">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhapuque&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kimhapuque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Learning:
@@ -41,3 +41,4 @@ Check out my Social Medias
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kimberllyhapuque/)](https://www.linkedin.com/in/kimberllyhapuque/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-dimgray?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/wzirael/)](https://www.twitter.com/wzirael)
 
+![Snake animation](https://github.com/kimhapuque/kimhapuque/blob/output/github-contribution-grid-snake.svg)
