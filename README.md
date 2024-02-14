@@ -55,29 +55,35 @@ Game made in 48 hours, 2th place of 70 games
 ##  Follow my journey! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 Check out my Social Medias
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kimberllyhapuque/)](https://www.linkedin.com/in/kimberllyhapuque/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-dimgray?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/wzirael/)](https://www.twitter.com/wzirael)
-<a href="https://www.instagram.com/lerigouwz" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge">
-</a>
-<a href="https://www.artstation.com/winterzirael" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/-ArtStation-1e1e2c?style=flat-square&logo=ArtStation&logoColor=white" alt="ArtStation Badge">
-</a>
-<a href="https://kimhapuque.itch.io/" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/-itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white" alt="itch.io Badge">
-</a>
-<a href="https://www.pixilart.com/winterzirael" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/-Pixilart-0F1214?style=flat-square&logo=Pixilart&logoColor=white" alt="Pixilart Badge">
-</a>
-<a href="https://www.deviantart.com/kimberllyhapuque" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/-DeviantArt-05CC47?style=flat-square&logo=DeviantArt&logoColor=white" alt="DeviantArt Badge">
-</a>
-<a href="https://www.twitch.tv/lerigouwz" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/-Twitch-6441A4?style=flat-square&logo=Twitch&logoColor=white" alt="Twitch Badge">
-</a>
-<a href="https://www.youtube.com/channel/UCfpAHLUWc8fuI_Cdl5UKt5w" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube Badge">
-</a>
-<a href="https://steamcommunity.com/profiles/76561198161674013/" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=Steam&logoColor=white" alt="Steam Badge">
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/kimberllyhapuque/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://www.twitter.com/wzirael/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Twitter-dimgray?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge">
+  </a>
+  <a href="https://www.instagram.com/lerigouwz" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge">
+  </a>
+  <a href="https://www.artstation.com/winterzirael" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-ArtStation-1e1e2c?style=flat-square&logo=ArtStation&logoColor=white" alt="ArtStation Badge">
+  </a>
+  <a href="https://kimhapuque.itch.io/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white" alt="itch.io Badge">
+  </a>
+  <a href="https://www.pixilart.com/winterzirael" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Pixilart-0F1214?style=flat-square&logo=Pixilart&logoColor=white" alt="Pixilart Badge">
+  </a>
+  <a href="https://www.deviantart.com/kimberllyhapuque" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-DeviantArt-05CC47?style=flat-square&logo=DeviantArt&logoColor=white" alt="DeviantArt Badge">
+  </a>
+  <a href="https://www.twitch.tv/lerigouwz" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Twitch-6441A4?style=flat-square&logo=Twitch&logoColor=white" alt="Twitch Badge">
+  </a>
+  <a href="https://www.youtube.com/channel/UCfpAHLUWc8fuI_Cdl5UKt5w" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube Badge">
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561198161674013/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=Steam&logoColor=white" alt="Steam Badge">
+  </a>
+</div>
