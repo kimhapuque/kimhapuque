@@ -6,6 +6,8 @@ I work as an Game artist freelancer and comission artist. Today i'm learn HTML, 
 
 I'm interested in technology, front-end development, Games, PixelArt, 3D Modeling, 2D art and Animation.
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kimhapuque&count_private=true&show_icons=true&theme=radical" /> </p>
+
 ## Learning:
 
 <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/csharp/csharp-original.svg" width="40" height="40"/> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/blender/blender-original.svg" width="40" height="40"/> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/godot/godot-original.svg" width="40" height="40"/> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/unity/unity-original.svg" width="40" height="40"/>
@@ -28,8 +30,6 @@ Game made in 48 hours, 2th place of 70 games
 [Crops'n Cats](https://www.youtube.com/watch?v=L5U48_HFYoo)
 
 *More information about in the videos description.
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kimhapuque&count_private=true&show_icons=true&theme=radical" /> </p>
 
 ##  Follow my journey! 👩🏻‍🎨
 Check out my Social Medias
