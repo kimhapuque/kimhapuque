@@ -61,7 +61,9 @@ Check out my Social Medias
   <a href="https://www.instagram.com/lerigouwz" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge"></a>
   <a href="https://www.artstation.com/winterzirael" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/-ArtStation-1e1e2c?style=flat-square&logo=ArtStation&logoColor=white" alt="ArtStation Badge"></a>
   <a href="https://kimhapuque.itch.io/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/-itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white" alt="itch.io Badge"></a>
-  <a href="https://www.pixilart.com/winterzirael" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/-Pixilart-9fc0e6?style=flat-square&logo=https://www.pixilart.com/images/public/logo-plain-lg.png?v=1.1&logoColor=FF69B4" alt="Pixilart Badge"></a>
+  <a href="https://www.pixilart.com/winterzirael" target="_blank" rel="nofollow">
+  <img src="https://img.shields.io/badge/-Pixilart-9fc0e6?style=flat-square&logo=https://www.pixilart.com/images/public/logo-plain-lg.png?v=1.1&logoColor=white" alt="Pixilart Badge">
+</a>
   <a href="https://www.deviantart.com/kimberllyhapuque" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/-DeviantArt-05CC47?style=flat-square&logo=DeviantArt&logoColor=white" alt="DeviantArt Badge"></a>
   <a href="https://www.twitch.tv/lerigouwz" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/-Twitch-6441A4?style=flat-square&logo=Twitch&logoColor=white" alt="Twitch Badge"></a>
   <a href="https://www.youtube.com/channel/UCfpAHLUWc8fuI_Cdl5UKt5w" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube Badge"></a>
