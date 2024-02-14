@@ -35,6 +35,10 @@ Game made in 48 hours, 2th place of 70 games
 
 *More information about in the videos description.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+</p>
+
 ##  Follow my journey! 👩🏻‍🎨
 Check out my Social Medias
 
