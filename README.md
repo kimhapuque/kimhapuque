@@ -42,5 +42,5 @@ Check out my Social Medias
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-dimgray?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/wzirael/)](https://www.twitter.com/wzirael)
 
 <div align="center">
-  <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=kimhapuque&langs_count=8&theme=dracula&hide_border=true&custom_title=Coding%20time%20in%20the%20last%202%20weeks&range=all_time" />
+  <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=kimhapuque&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Coding%20time%20in%20the%20last%202%20weeks&range=all_time" />
 </div>
