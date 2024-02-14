@@ -6,7 +6,11 @@ I work as an Game artist freelancer and comission artist. Today i'm learn HTML, 
 
 I'm interested in technology, front-end development, Games, PixelArt, 3D Modeling, 2D art and Animation.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kimhapuque&count_private=true&show_icons=true&theme=radical" /> </p>
+<div>
+<a href="https://github.com/kimhapuque">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Learning:
 
