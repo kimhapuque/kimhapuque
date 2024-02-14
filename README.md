@@ -1,4 +1,4 @@
-<h2> Hi, I'm Kimberlly Hapuque, artist nick WinterZirael! <img src="https://a.furaffinity.net/20240214/sylveonfurs.gif" width="50"></h2>
+<h2> Hi, I'm Kimberlly Hapuque, <i>(WinterZirael)</i>! <img src="https://a.furaffinity.net/20240214/sylveonfurs.gif" width="50"></h2>
 
 I'm student in Digital Games from the University Positivo, student of art 2D, 3D modeling, Pixel art and Mobile Games. An eternal student.
 
