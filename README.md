@@ -63,8 +63,14 @@ Check out my Social Medias
 <a href="https://www.artstation.com/winterzirael" target="_blank" rel="nofollow">
   <img src="https://img.shields.io/badge/-ArtStation-1e1e2c?style=flat-square&logo=ArtStation&logoColor=white" alt="ArtStation Badge">
 </a>
-<a href="https://kimhapuque.itch.io/">
+<a href="https://kimhapuque.itch.io/" target="_blank" rel="nofollow">
   <img src="https://img.shields.io/badge/-itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white" alt="itch.io Badge">
+</a>
+<a href="https://www.pixilart.com/winterzirael" target="_blank" rel="nofollow">
+  <img src="https://img.shields.io/badge/-Pixilart-0F1214?style=flat-square&logo=Pixilart&logoColor=white" alt="Pixilart Badge">
+</a>
+<a href="https://www.deviantart.com/kimberllyhapuque" target="_blank" rel="nofollow">
+  <img src="https://img.shields.io/badge/-DeviantArt-05CC47?style=flat-square&logo=DeviantArt&logoColor=white" alt="DeviantArt Badge">
 </a>
 <a href="https://www.twitch.tv/lerigouwz" target="_blank" rel="nofollow">
   <img src="https://img.shields.io/badge/-Twitch-6441A4?style=flat-square&logo=Twitch&logoColor=white" alt="Twitch Badge">
@@ -72,5 +78,6 @@ Check out my Social Medias
 <a href="https://www.youtube.com/channel/UCfpAHLUWc8fuI_Cdl5UKt5w" target="_blank" rel="nofollow">
   <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube Badge">
 </a>
-
-
+<a href="https://steamcommunity.com/profiles/76561198161674013/" target="_blank" rel="nofollow">
+  <img src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=Steam&logoColor=white" alt="Steam Badge">
+</a>
