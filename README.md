@@ -1,4 +1,4 @@
-<h2> Hi, I'm <u>Kimberlly Hapuque</u>,</h2> <h1></h1><i>(WinterZirael)</i>!</h1> <img src="https://a.furaffinity.net/20240214/sylveonfurs.gif" width="50">
+<h2> Hi, I'm <u>Kimberlly Hapuque</u>, <i>(WinterZirael)</i>!<img src="https://a.furaffinity.net/20240214/sylveonfurs.gif" width="50"></h2>
 
 I'm student in Digital Games from the University Positivo, student of art 2D, 3D modeling, Pixel art and Mobile Games. An eternal student.
 
