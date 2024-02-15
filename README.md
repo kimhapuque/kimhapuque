@@ -4,7 +4,7 @@ I'm student in Digital Games from the University Positivo, student of art 2D, 3D
 
 I work as an Game artist freelancer and comission artist. Today i'm learn HTML, CSS, JavaScript, TypeScript and some tool languages like C# for Unity, GML for GameMaker and GDScript for Godot. In all projects I use Git for code separation and versioning.
 
-I'm interested in technology, front-end development, Games, PixelArt, 3D Modeling, 2D art and Animation.
+I'm interested in Technology, Astronomy, Front-end development, Games development, Games, PixelArt, 3D Modeling, 2D art and Animation.
 
 <div>
 <a href="https://github.com/kimhapuque">
